@@ -46,6 +46,11 @@ The model takes a full image as input and outputs a probability score for each o
 
 ## Task 2: Dataset Exploration
 
+# Dataset Link
+Use the relevant Part 4 reference files from the shared folder:
+
+https://drive.google.com/drive/folders/1akV6po4Nrgkc3yQrJkzA6cJlV-wBvUYs?usp=sharing
+
 | Property | Value |
 |----------|-------|
 | Number of classes | 4 (normal, scratch, dent, stain) |
